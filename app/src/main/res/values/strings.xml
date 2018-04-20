@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Project 22743</string>
+    <string name="web_client_id">769904600973-mst3t0f6hn2d3d86fbjgglmm6cknea3b.apps.googleusercontent.com</string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
